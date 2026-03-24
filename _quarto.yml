@@ -20,7 +20,7 @@ website:
         href: call_for_presentations.qmd
     right:
       - icon: github
-        href: https://github.com/RSEAA/Research-Software-Africa
+        href: https://github.com/Research-Software-Africa/research-software-africa-org
 
 
   page-footer:
