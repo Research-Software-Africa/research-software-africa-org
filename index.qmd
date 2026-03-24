@@ -28,7 +28,7 @@ We are thrilled to announce that we are working with two other conferences, the 
 
 We are creating a joint organising committee, while the co-chairs for each conference can still choose what happens at their event.
 
-As part of this joint organising committee, we have created Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders. 
+As part of this joint organising committee, [we have created Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders. 
 
 
 ::: {style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;"}
