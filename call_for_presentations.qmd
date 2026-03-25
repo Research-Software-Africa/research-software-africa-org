@@ -14,7 +14,7 @@ format: html
 
 The Research Software Africa Conference (RSAfrica26) brings together people involved in building, using, supporting, and sustaining research software across Africa.
 
-In 2026, RSAfrica is part of a coordinated **Global South Research Software Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
+In 2026, RSAfrica is part of a coordinated **Equersa Group of Conferences**, running across Asia, Australia, New Zealand, Africa, and Latin America over the same dates. Together, these events create space for regional conversations alongside shared global exchange.
 
 This year’s theme, **“Research Software Without Borders”**, is about breaking down barriers between regions, institutions, disciplines, and communities to build research software that is equitable, sustainable, and community-led.
 
