@@ -9,6 +9,7 @@ project:
 
 
 website:
+  site-url: https://www.research-software-africa.org
   title: "RSAfrica26"
   navbar:
     background: "#7C004C"
