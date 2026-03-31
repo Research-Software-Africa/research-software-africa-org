@@ -90,5 +90,5 @@ We look forward to your participation in **RSAfrica26** and appreciate your cont
 For updates and additional details, visit: <https://research-software-africa.org/>.
 
 <p style="font-size: small;color: grey">
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 </p>
