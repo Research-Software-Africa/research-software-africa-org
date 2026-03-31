@@ -23,12 +23,13 @@ Each presentation should be **concise, engaging, and relevant to the conference 
 
 ## 2. Submission Guidelines
 
-Submissions must be made through the RSAfrica26 online submission system by the submission deadline (TBA).
+Submissions must be made through the [RSAfrica26 online submission system](https://www.research-software-africa.org/call_for_presentations.html#submission-process-contact) by the submission deadline (TBA).
 
 ### Submission Requirements
 
-Each submission should include: - **Title:** A clear and concise title of your presentation.
+Each submission should include: 
 
+- **Title:** A clear and concise title of your presentation.
 - **Abstract:** 150–300 words summarizing the content and its relevance to the theme.
 - **Learning Objectives:** 3–5 key takeaways for the audience.
 - **Presenter Information:** Name, affiliation, bio (up to 150 words), and contact details.
@@ -36,8 +37,9 @@ Each submission should include: - **Title:** A clear and concise title of your p
 
 ## 3. Selection Criteria
 
-Submissions will be reviewed based on: - Relevance to the conference theme and sub-themes.
+Submissions will be reviewed based on: 
 
+- Relevance to the conference theme and sub-themes.
 - Clarity and coherence of the abstract.
 - Practical applicability and potential impact on the research software community.
 - Alignment with the interests of the research software community.
@@ -46,8 +48,7 @@ The conference welcomes diverse perspectives and aims to lower entry barriers fo
 
 Authors will be **notified of acceptance** after the review process is complete.
 
-<a id="presentation-guidelines"></a> \## 4.
-Presentation Guidelines
+## 4. Presentation Guidelines
 
 ### 4.1 General Guidelines
 
@@ -86,4 +87,8 @@ For any questions or further assistance, please contact the **RSAfrica26 Organiz
 
 We look forward to your participation in **RSAfrica26** and appreciate your contribution to building a stronger research software community!
 
-For updates and additional details, visit: <https://rseaa.org/Research-Software-Africa/>.
+For updates and additional details, visit: <https://research-software-africa.org/>.
+
+<p style="font-size: small;color: grey">
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+</p>
