@@ -18,14 +18,21 @@
     "href": "author_guidelines.html#submission-guidelines",
     "title": "RSAfrica26 Author Guidelines",
     "section": "2. Submission Guidelines",
-    "text": "2. Submission Guidelines\nSubmissions must be made through the RSAfrica26 online submission system by the submission deadline (TBA).\n\nSubmission Requirements\nEach submission should include: - Title: A clear and concise title of your presentation.\n\nAbstract: 150–300 words summarizing the content and its relevance to the theme.\nLearning Objectives: 3–5 key takeaways for the audience.\nPresenter Information: Name, affiliation, bio (up to 150 words), and contact details.\nPreferred Presentation Format: Indicate if you are submitting a Lightning Talk (5 min), Demo/Showcase (10 min), Presentation (15 min), or Flexible Presentation Format."
+    "text": "2. Submission Guidelines\nSubmissions must be made through the RSAfrica26 online submission system by the submission deadline (TBA).\n\nSubmission Requirements\nEach submission should include:\n\nTitle: A clear and concise title of your presentation.\nAbstract: 150–300 words summarizing the content and its relevance to the theme.\nLearning Objectives: 3–5 key takeaways for the audience.\nPresenter Information: Name, affiliation, bio (up to 150 words), and contact details.\nPreferred Presentation Format: Indicate if you are submitting a Lightning Talk (5 min), Demo/Showcase (10 min), Presentation (15 min), or Flexible Presentation Format."
   },
   {
     "objectID": "author_guidelines.html#selection-criteria",
     "href": "author_guidelines.html#selection-criteria",
     "title": "RSAfrica26 Author Guidelines",
     "section": "3. Selection Criteria",
-    "text": "3. Selection Criteria\nSubmissions will be reviewed based on: - Relevance to the conference theme and sub-themes.\n\nClarity and coherence of the abstract.\nPractical applicability and potential impact on the research software community.\nAlignment with the interests of the research software community.\nInclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.\n\nAuthors will be notified of acceptance after the review process is complete.\n ## 4. Presentation Guidelines\n\n4.1 General Guidelines\n\nPresenters should be prepared to deliver their presentation live in an online format.\nSessions will be conducted via a virtual conference platform (details to be provided closer to the event).\nPresenters should ensure their materials are accessible and align with RSAfrica26’s commitment to digital accessibility.\n\n\n\n4.2 Digital Accessibility Requirements\nTo ensure an inclusive experience, we recommend that all presenters:\n\nUse high-contrast and readable fonts in presentation slides.\nProvide alternative text (alt text) for images, charts, and figures.\nInclude captions in videos to improve accessibility.\nAvoid relying on color alone to convey key information."
+    "text": "3. Selection Criteria\nSubmissions will be reviewed based on:\n\nRelevance to the conference theme and sub-themes.\nClarity and coherence of the abstract.\nPractical applicability and potential impact on the research software community.\nAlignment with the interests of the research software community.\nInclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged. The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.\n\nAuthors will be notified of acceptance after the review process is complete."
+  },
+  {
+    "objectID": "author_guidelines.html#presentation-guidelines",
+    "href": "author_guidelines.html#presentation-guidelines",
+    "title": "RSAfrica26 Author Guidelines",
+    "section": "4. Presentation Guidelines",
+    "text": "4. Presentation Guidelines\n\n4.1 General Guidelines\n\nPresenters should be prepared to deliver their presentation live in an online format.\nSessions will be conducted via a virtual conference platform (details to be provided closer to the event).\nPresenters should ensure their materials are accessible and align with RSAfrica26’s commitment to digital accessibility.\n\n\n\n4.2 Digital Accessibility Requirements\nTo ensure an inclusive experience, we recommend that all presenters:\n\nUse high-contrast and readable fonts in presentation slides.\nProvide alternative text (alt text) for images, charts, and figures.\nInclude captions in videos to improve accessibility.\nAvoid relying on color alone to convey key information."
   },
   {
     "objectID": "author_guidelines.html#presentation-preparation",
@@ -46,7 +53,7 @@
     "href": "author_guidelines.html#contact-information",
     "title": "RSAfrica26 Author Guidelines",
     "section": "7. Contact Information",
-    "text": "7. Contact Information\nFor any questions or further assistance, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.\nWe look forward to your participation in RSAfrica26 and appreciate your contribution to building a stronger research software community!\nFor updates and additional details, visit: https://rseaa.org/Research-Software-Africa/."
+    "text": "7. Contact Information\nFor any questions or further assistance, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.\nWe look forward to your participation in RSAfrica26 and appreciate your contribution to building a stronger research software community!\nFor updates and additional details, visit: https://research-software-africa.org/.\n\nThe Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft, and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
   },
   {
     "objectID": "registration.html",
