@@ -152,16 +152,20 @@ The conference actively promotes Digital Accessibility, and we encourage present
 - Avoid reliance on **color alone** to convey information.
 
 ## Submission Process & Contact
- 
-Submit your proposals via the RSAfrica26 online submission system at [submission link/TBD](). (To register for the submission platform, visit [registration link](https://cmt3.research.microsoft.com/User/Register). Note: All external profile information on the registration form is optional.) For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
 
-<a class="rse rse-join" href="#">Submit Presentation for RSAfrica26</a>
+Please [register](https://cmt3.research.microsoft.com/User/Register) for the submission platform. Note: All external profile information on the registration form is optional.
+
+For instructions on how to make a submission, see [instructions here](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html).
+
+For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
+
+<a class="rse rse-join" href="#">Submit Presentation for RSAfrica26</a> *CMT submission link coming soon*
 
 
 We look forward to your participation in **RSAfrica26**, as we come together to strengthen our community connections and advance the field of research software!
 
-For more information, visit [https://rseaa.org](https://rseaa.org).
+For more information, visit [https://research-software-africa.org](https://research-software-africa.org).
 
 <p style="font-size: small;color: grey">
-*The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 </p>
