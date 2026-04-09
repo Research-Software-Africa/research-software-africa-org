@@ -13,3 +13,5 @@ The website for RSAfrica conferences: [www.research-software-africa.org](https:/
 ## Contributing
 
 Please open an issue to suggest changes, or feel free to fork this repo and submit a PR.
+
+PRs require approval by a member of the 'website' team - please open an issue to request to be added to this team if you would like to be involved.
