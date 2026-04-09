@@ -22,8 +22,7 @@ website:
     right:
       - icon: github
         href: https://github.com/Research-Software-Africa/research-software-africa-org
-   right:
-      - icon: LinkedIn
+      - icon: linkedin
         href: https://www.linkedin.com/company/rsafrica
 
   page-footer:
