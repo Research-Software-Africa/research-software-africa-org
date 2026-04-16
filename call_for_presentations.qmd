@@ -125,8 +125,8 @@ Talks from beginners, early-career RSEs, and those covering fundamental topics a
 
 ## Submission Timeline
 
-- **CFP Opens:** TBD  
-- **Submission Deadline:** May 1st, 2026  
+- **CFP Opens:** April 15th, 2026 
+- **Submission Deadline:** May 15th, 2026  
 - **Notification of Acceptance:** July 7th, 2026
 
 
@@ -159,7 +159,7 @@ For instructions on how to make a submission, see [instructions here](https://cm
 
 For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
 
-<a class="rse rse-join" href="#">Submit Presentation for RSAfrica26</a> *CMT submission link coming soon*
+<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAfrica2026/Submission/Index target="_blank">Submit Presentation for RSAfrica26</a>
 
 
 We look forward to your participation in **RSAfrica26**, as we come together to strengthen our community connections and advance the field of research software!
