@@ -157,9 +157,10 @@ Please [register](https://cmt3.research.microsoft.com/User/Register) for the sub
 
 For instructions on how to make a submission, see [instructions here](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html).
 
-For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org.
+For questions, please contact the RSAfrica26 Organizing Committee at info@rseaa.org
 
-<a class="rse rse-join" href="https://cmt3.research.microsoft.com/RSAfrica2026/Submission/Index" target="_blank">Submit Presentation for RSAfrica26</a>
+
+**[Submit Presentation for RSAfrica26](https://cmt3.research.microsoft.com/RSAfrica2026/Submission/Index)!**
 
 
 We look forward to your participation in **RSAfrica26**, as we come together to strengthen our community connections and advance the field of research software!
