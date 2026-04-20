@@ -7,15 +7,19 @@ title: "Registration"
 Welcome to the Research Software Africa 2026. 
 
 ### Call for Volunteers
+
 [Register here](https://forms.gle/7BndopbpXNEudn5AA) to serve as a volunteer during the conference.
 
 ### Register for the Conference
+
 Conference registration will open soon. In the meantime, [register here](https://forms.gle/6YdKBMNX19vniVmk8) to receive updates by email.
 
 ### Submit a Presentation
 
-[Visit the Call For Presentations](https://www.research-software-africa.org/call_for_presentations.html) page to apply to present at the conference.
+[Visit the Call For Presentations](https://www.research-software-africa.org/call_for_presentations.html) page for information on how to apply to present at the conference.
 
+If you already have a [CMT account](https://cmt3.research.microsoft.com/User/Register) and have read the [CFP guidelines](https://www.research-software-africa.org/call_for_presentations.html), please feel free to 
+[submit a presentation for RSAfrica26](https://cmt3.research.microsoft.com/RSAfrica2026/Submission/Index)!
 
 
 
