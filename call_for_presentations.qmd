@@ -105,7 +105,7 @@ When submitting your proposal, please include:
 - **Learning Objectives** (3–5 key takeaways for the audience)  
 - **Presenter Information** (name, affiliation, bio up to 150 words, and contact details)  
 
-Submissions should clearly describe what attendees will learn and how the presentation connects to research software practice or community.
+Submissions should clearly describe what attendees will learn and how the presentation connects to research software practice or the research software community.
 
 You do not need to have a finished project. Work-in-progress, lessons learned, and honest reflections are welcome.
 
