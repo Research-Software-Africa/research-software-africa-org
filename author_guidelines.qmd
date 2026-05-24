@@ -14,23 +14,24 @@ To ensure a smooth submission and presentation experience, please follow the gui
 Authors may choose from the following presentation options: 
 
 - **5-minute Lightning Talk** – A concise, impactful presentation to share a new idea, emerging trend, or brief case study.
-- **10-minute Demo/Showcase** – A hands-on session to demonstrate tools, techniques, or workflows, offering practical insights or a quick tutorial.
+- **10-minute Demo/Showcase** – A practical session to demonstrate tools, techniques, or workflows, offering practical insights or a quick tutorial.
 - **15-minute Presentation** – A deeper exploration of a specific topic, including research findings, best practices, or community-driven initiatives.
-- **Flexible Presentation Format** – If your content doesn't fit into the above options, propose an alternative presentation format.
-Non-presentation formats, such as posters, are not included in this CFP.
+- **Flexible Presentation Format** – If your content doesn't fit into the above options, propose an alternative presentation format. 
 
-Each presentation should be **concise, engaging, and relevant to the conference theme: "Connecting with Community"**.
+***Note:*** *Non-presentation formats, such as posters, are not included in the current [Call for Presentations](https://www.research-software-africa.org/call_for_presentations.html).*
+
+Each presentation should be **concise, engaging, and relevant to the conference theme: "Research Software Without Borders"**.
 
 ## 2. Submission Guidelines
 
-Submissions must be made through the [RSAfrica26 online submission system](https://www.research-software-africa.org/call_for_presentations.html#submission-process-contact) by the submission deadline (TBA).
+Submissions must be made through the [RSAfrica26 online submission system](https://www.research-software-africa.org/call_for_presentations.html#submission-process-contact) by the [Call for Presentations closing deadline](https://www.research-software-africa.org/#key-dates-tentative).
 
 ### Submission Requirements
 
 Each submission should include: 
 
 - **Title:** A clear and concise title of your presentation.
-- **Abstract:** 150–300 words summarizing the content and its relevance to the theme.
+- **Abstract:** 150–300 words summarising the content and its relevance to the theme.
 - **Learning Objectives:** 3–5 key takeaways for the audience.
 - **Presenter Information:** Name, affiliation, bio (up to 150 words), and contact details.
 - **Preferred Presentation Format:** Indicate if you are submitting a Lightning Talk (5 min), Demo/Showcase (10 min), Presentation (15 min), or Flexible Presentation Format.
@@ -43,7 +44,7 @@ Submissions will be reviewed based on:
 - Clarity and coherence of the abstract.
 - Practical applicability and potential impact on the research software community.
 - Alignment with the interests of the research software community.
-- Inclusivity of the speaker(s) – Talks from beginners, early-career RSEs, and those covering fundamental topics are encouraged.
+- Inclusivity of the speaker(s) – Talks from first-time presenters, early-career RSEs, and those covering fundamental topics are encouraged.
 The conference welcomes diverse perspectives and aims to lower entry barriers for new speakers.
 
 Authors will be **notified of acceptance** after the review process is complete.
@@ -63,7 +64,8 @@ To ensure an inclusive experience, we recommend that all presenters:
 - Use **high-contrast** and **readable fonts** in presentation slides.
 - Provide **alternative text (alt text)** for images, charts, and figures.
 - **Include captions** in videos to improve accessibility.
-- Avoid relying on **color alone** to convey key information.
+- Avoid relying on **colour alone** to convey key information.
+- Verbally describe important visual content where possible.
 
 ## 5. Presentation Preparation
 
@@ -83,7 +85,7 @@ All presenters and attendees are expected to adhere to the **RSAfrica26 Code of 
 
 ## 7. Contact Information
 
-For any questions or further assistance, please contact the **RSAfrica26 Organizing Committee** at info\@rseaa.org.
+For any questions or further assistance, please contact the **RSAfrica26 Organising Committee** at info@rseaa.org.
 
 We look forward to your participation in **RSAfrica26** and appreciate your contribution to building a stronger research software community!
 
