@@ -20,13 +20,13 @@ page-layout: full
 
 Do you want to learn what others are doing in research software in your domain and in other domains? Or do you want to discuss with others how you balance researcher needs with good software practices? Or maybe you are the only person working on research software in your group?
 
-If so, you might want to join us for RSAfrica26, the new Research Software(RS)conference, from the **25th to the 28th of August 2026**. The theme for this year is **"Research Software Without Borders"**, and the hashtag will be #RSAfrica26.
+If so, you might want to join us for RSAfrica26, the new Research Software Africa conference, from the **25th to the 28th of August 2026**. The theme for this year is **"Research Software Without Borders"**, and the hashtag will be #RSAfrica26.
 
-## Working with Research Software Asia Australia, Research Software Latinoamérica, and Equersa
+## Working with Research Software Asia Australia (RSAA), Research Software Latinoamérica (RSLA), and Equersa
 
 We are thrilled to announce that we are working with two other conferences, the established Research Software Asia Australia (RSAA26) and the new Research Software Latinoamérica (RSLA26)!
 
-We are creating a joint organising committee, while the co-chairs for each conference can still choose what happens at their event.
+We are creating a joint organising committee, while the co-chairs for each conference still manage their own event.
 
 As part of this joint organising committee, [we have created Equersa](https://equersa.org), an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders. 
 
@@ -40,22 +40,22 @@ As part of this joint organising committee, [we have created Equersa](https://eq
 | Call for Presentations | 15th April | Extended to 29th May |
 | Call for Accessibility Fellows | 14th May | 26th June |
 | Notification of presentations | 7th July | — |
-| Call for Session chairs | ASAP | 7th August |
-| Call for Reviewers | ASAP | 15th May |
+| Call for Session chairs | Ongoing | 7th August |
+| Call for Reviewers | Ongoing | 15th May |
 | Micro-grants | 14th May | 10th July |
 | Scholarships | 14th May | 14th August |
 | Early Bird Registrations | 15th June | 10th July |
 | Standard Registrations | 11th July | 14th August |
-| Conference | 25th August | 28th August (depending on conference) |
+| Conference | 25th August | 28th August (may vary across partner conferences) |
 
 
 :::
 
 ## Call for Presentations
 
-The Call for Presentations (CFP) for the Research Software Africa Conference 2026 (RSAfrica26) will be announced soon. This year's theme, **"Research Software Without Borders"**, focuses on fostering collaboration and engagement within the research software community.
+The Call for Presentations (CFP) for the Research Software Africa conference 2026 (RSAfrica26) is now open. This year's theme, **"Research Software Without Borders"**, focuses on fostering collaboration and engagement within the research software community.
 
-For more details, please refer to the [Call for Presentations](call_for_presentations.qmd) document when available.
+For more details, please refer to the [Call for Presentations](call_for_presentations.qmd).
 
 ## Call for Workshops
 
@@ -64,15 +64,15 @@ We invite proposals for workshops to be held on the first day of RSAfrica26 (Tue
 
 ### Author Guidelines
 
-Thank you for your interest in contributing to the Research Software Africa Conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) document.
+Thank you for your interest in contributing to the Research Software Africa conference 2026 (RSAfrica26). To ensure a smooth submission and presentation experience, please follow the guidelines provided in the [Author Guidelines](author_guidelines.qmd) page.
 
 ## Accessibility and Inclusivity
 
 We are committed to creating a safe, accessible, and inclusive environment for all participants. 
 
-In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the RSAA conference](RSEAUNZAccessibility.html) that we use as a benchmark for our performance. 
+In 2022, [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high-level accessibility report for the Research Software Asia Australia conference](RSEAUNZAccessibility.html) that we use as a benchmark for our accessibility efforts. 
 
-To this end we are offering scholarships for staff or students to participate for free, as well as 10 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
+To this end we are offering scholarships for staff or students to participate for free, as well as 30 accessibility micro-grants valued at $50 AUD to help with internet, headphones, childcare etc. 
 
 Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
@@ -82,7 +82,7 @@ We encourage participants to apply even if they do not think they are eligible, 
 
 You will need to provide one short paragraph to explain how you will benefit from the scholarship or micro-grant.
 
-All successful recipients of scholarships and accessible micro-grants are expected to submit a poster for the event.
+All successful recipients of scholarships and accessibility micro-grants are expected to submit a presentation for the event.
 
 If you feel that the conference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at info at rseaa.org.
 
@@ -109,14 +109,15 @@ You can also apply to be an Accessibility Fellow. The RSAA26 Accessibility Fello
 
 ## Want to sign up for updates? 
 
-Currently we are using the RSAA mailing list although we do have our own LinkedIn
+Currently we are using the RSAA mailing list although we do have our own LinkedIn:
+
 - [Click here to sign up for the RSAA mailing list](https://forms.gle/6YdKBMNX19vniVmk8)
 - [Click here to follow us on LinkedIn](https://www.linkedin.com/company/rsafrica/)
 
 
 ## Code of Conduct
 
-We will be using [the Code of Conduct from RSE-AUNZ for RSAfrica26](https://rse-aunz.github.io/code-of-conduct) at it is designed to provide all participants with community participation guidelines and create a safe space.
+We will be using [the Code of Conduct from RSE-AUNZ for RSAfrica26](https://rse-aunz.github.io/code-of-conduct) as it is designed to provide all participants with community participation guidelines and create a safe space.
 
 
 ## Contact Us
