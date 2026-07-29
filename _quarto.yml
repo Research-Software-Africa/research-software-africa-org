@@ -5,6 +5,7 @@ project:
     - registration.qmd
     - call_for_presentations.qmd
     - author_guidelines.qmd
+    - program.qmd
   output-dir: _site
 
 
