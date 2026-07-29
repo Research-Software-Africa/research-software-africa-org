@@ -2,7 +2,7 @@
 title: "RSAfrica26 Conference Program"
 subtitle: "1st Research Software Africa Conference"
 author: "RSAfrica26 Organising Committee"
-date: "2026-08-25"
+date: "2026-07-29"
 format:
   html:
     theme: cosmo
@@ -470,7 +470,7 @@ This 10-minute product demo will showcase our product and our approach to reduci
 
 ::: {.panel-tabset}
 
-### Track A
+### Track A – Talks and Demos
 
 #### Day 3 Welcome and Track Announcements
 
@@ -738,7 +738,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ---
 
-### Track B
+### Track B – AI Sustainability Day
 
 #### Day 3 Welcome and Track Announcements
 
