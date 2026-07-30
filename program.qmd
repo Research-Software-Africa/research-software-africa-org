@@ -2,7 +2,7 @@
 title: "RSAfrica26 Conference Program"
 subtitle: "1st Research Software Africa Conference"
 author: "RSAfrica26 Organising Committee"
-date: "2026-07-29"
+date: "2026-07-30"
 format:
   html:
     theme: cosmo
@@ -39,7 +39,7 @@ All times in this program are displayed in **South African Standard Time (SAST) 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 11:45–12:05 | 20 min | [The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software](#paper-4) | Rowland Mosbergen | Presentation |
-| 12:05–12:25 | 20 min | [https://www.linkedin.com/in/emmanuel-ugwu-b58b80223](#paper-9) | Ugwu Nnamdi Emmanuel | Presentation |
+| 12:05–12:25 | 20 min | [Building Africa's Research Software Talent Pipeline Through Community Leadership](#paper-9) | Ugwu Nnamdi Emmanuel | Presentation |
 | 12:25–12:40 | 15 min | [From Contributor to Maintainer: Growing Community‑Led Open Source Research Software in Africa](#paper-10) | Fuad ALIPHATIC Adegoke | Demo/Showcase |
 | 12:40–13:00 | 20 min | [Community Is Infrastructure Too: Building Research Software Capacity Through Bioinformatics Training in Africa](#paper-21) | Chioma B. Oselu | Presentation |
 
@@ -99,7 +99,7 @@ We also highlight how this program has created a new effective methodology for t
 
 ---
 
-#### Presentation. Title: https://www.linkedin.com/in/emmanuel-ugwu-b58b80223 {#paper-9}
+#### Presentation. Title: Building Africa's Research Software Talent Pipeline Through Community Leadership {#paper-9}
 
 **Presenter Name**: Ugwu Nnamdi Emmanuel
 
