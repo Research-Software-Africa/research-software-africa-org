@@ -14,6 +14,8 @@ page-layout: full
 
 [Registration](registration.qmd){.btn .btn-primary .btn-lg}
 
+[Program](program.qmd){.btn .btn-primary .btn-lg}
+
 :::
 
 # Welcome to Research Software Africa (RSAfrica26)
