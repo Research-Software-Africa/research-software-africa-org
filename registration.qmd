@@ -6,17 +6,24 @@ title: "Registration"
 :::
 Welcome to the Research Software Africa 2026. 
 
-### Call for Volunteers
+### Program for the Conference
 
-[Register here](https://forms.gle/7BndopbpXNEudn5AA) to serve as a volunteer during the conference.
+[The program for the conference is now open.](program)
 
 ### Register for the Conference
 
 [Conference registration is now open](https://events.humanitix.com/equersa-2026). 
 
-You can also [apply for the Scholarships and Accessibility Micro-grants for 2026.](https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header)
+You can also [apply for the Scholarships for 2026.](https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header) These are free tickets that also allow you to attend all three conferences - Research Software Africa, [Research Software Asia Australia](https://rseaa.org), and [Research Software Latinoamérica](https://rs-latam.org).
+
+These scholarships are available people who are unemployed, students, PhD students, in precarious employment, financially pressured, lack conference presentation opportunities, have caring duties, or feel uncomfortable asking supervisors for funding.  If you don't fit neatly into these categories but face other barriers to attendance, we encourage you to applyas we're here to support you.
 
 You can also [register here](https://forms.gle/6YdKBMNX19vniVmk8) to receive updates by email for RSAfrica26 and beyond.
+
+### Call for Volunteers (now closed)
+
+[Register here](https://forms.gle/7BndopbpXNEudn5AA) to serve as a volunteer during the conference.
+
 
 ### Submit a Presentation (now closed)
 
@@ -24,7 +31,5 @@ You can also [register here](https://forms.gle/6YdKBMNX19vniVmk8) to receive upd
 
 If you already have a [CMT account](https://cmt3.research.microsoft.com/User/Register) and have read the [CFP guidelines](https://www.research-software-africa.org/call_for_presentations.html), please feel free to 
 [submit a presentation for RSAfrica26](https://cmt3.research.microsoft.com/RSAfrica2026/Submission/Index)!
-
-
 
 
