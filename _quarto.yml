@@ -6,6 +6,7 @@ project:
     - call_for_presentations.qmd
     - author_guidelines.qmd
     - program.qmd
+    - volunteering.qmd
   output-dir: _site
 
 
