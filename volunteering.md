@@ -116,7 +116,7 @@ The expectations of the observers are:
 
 The expectations of the regular organising committee members are:
 1. To represent the RSEAA organising commitee to the wider community and to external stakeholders
-2. To attend the weekly organising meetings to help create a successful RSEAA event
+2. To attend the weekly organising meetings to help create a successful RS Africa event
 3. To keep the project management software up to date
 4. To follow up key tasks in between meetings
 5. To execute tasks that are delegated by the organising committee
