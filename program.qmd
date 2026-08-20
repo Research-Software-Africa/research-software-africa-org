@@ -190,7 +190,7 @@ This presentation will share practical lessons for designing inclusive training 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 09:00–09:30 | 30 min | [Day 2 Welcoming Session](#paper-202) | Conference Organisers | Welcoming |
-| 09:30–10:00 | 30 min | [Day 2 Opening Plenary Address](#paper-201) | TBC | Keynote |
+| 09:30–10:00 | 30 min | [Day 2 Opening Plenary Address](#paper-201) | Tosan Okome & Chidera Frankie | Keynote |
 
 ### Session 2A: AI & Emerging Tools
 
@@ -224,9 +224,17 @@ This presentation will share practical lessons for designing inclusive training 
 
 #### Keynote. Title: Day 2 Opening Plenary Address {#paper-201}
 
-**Presenter Name**: TBC
+**Presenter Name**: Tosan Okome & Chidera Frankie
 
-**Abstract**: TBC
+**Bio**: Tosan is a nurse-midwife and early-career researcher with an interest in healthcare, open science, and open source. She leads the Research Focus Group at CHAOSS Africa, where she contributes to research exploring open source and its impact across Africa. She also volunteers as a Research Assistant with the Bipolar Disorder Research Group of Nigeria, contributing to research aimed at better understanding bipolar disorder. Tosan is passionate about advancing open science and open source and their potential to strengthen research, healthcare, and innovation.
+
+
+
+
+
+Chidera Frankie is a software engineer with a strong curiosity for research, particularly in how technology shapes society and public systems. She is the project manager for the current research being conducted by the CHAOSS Africa Research Focus Group on Open Source as digital public infrastructure.
+
+**Abstract**: Open source software (OSS) is quietly powering key public systems across Africa. Yet governments rarely recognise it as part of their Digital Public Infrastructure (DPI). Tools like DHIS2, OpenMRS, Mojaloop, and Moodle support health data management, financial inclusion, and education delivery in dozens of African countries. But formal policy frameworks, sustained funding, and institutional recognition remain low or absent in many contexts. This presentation shares early findings from research being conducted by the CHAOSS Africa Research Focus Group. We are a small, community-led team studying the health and sustainability of open source communities on the continent. Our research maps OSS technologies embedded in African DPI across four sectors, assesses their documented impact, reviews global and continental policy frameworks, and identifies actionable recommendations for African governments. The research is explicitly work-in-progress. We will share what we have found, what remains unresolved, and how the research software community can contribute, whether through data, critique, or collaboration. This talk connects somewhat directly to the conference theme of Research Software Without Borders. The OSS tools we study (such as DHIS2) are research software in the broadest sense; built collaboratively, maintained by distributed communities, and designed for reuse across institutional and national borders. Their sustainability challenges mirror those facing research software generally: funding gaps after initial deployment, limited local maintainer capacity, and weak institutional recognition. Our work also models community-led research practice in the Global South, conducted by a small team of novice but motivated researchers, organised through CHAOSS Africa's open community infrastructure, and aimed at producing outputs (a report and a policy playbook) that remain accessible and actionable beyond the academic context.
 
 ---
 
