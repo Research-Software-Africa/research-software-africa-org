@@ -38,8 +38,8 @@ All times in this program are displayed in **South African Standard Time (SAST) 
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 11:45–12:05 | 20 min | [The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software](#paper-4) | Rowland Mosbergen | Presentation |
-| 12:05–12:25 | 20 min | [Building Africa's Research Software Talent Pipeline Through Community Leadership](#paper-9) | Ugwu Nnamdi Emmanuel | Presentation |
+| 11:45–12:05 | 20 min | [Building Africa's Research Software Talent Pipeline Through Community Leadership](#paper-9) | Ugwu Nnamdi Emmanuel | Presentation |
+| 12:05–12:25 | 20 min | [The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software](#paper-4) | Rowland Mosbergen | Presentation |
 | 12:25–12:40 | 15 min | [From Contributor to Maintainer: Growing Community‑Led Open Source Research Software in Africa](#paper-10) | Fuad ALIPHATIC Adegoke | Demo/Showcase |
 | 12:40–13:00 | 20 min | [Community Is Infrastructure Too: Building Research Software Capacity Through Bioinformatics Training in Africa](#paper-21) | Chioma B. Oselu | Presentation |
 
@@ -72,36 +72,6 @@ Peter van Heusden is a bioinformatician and researcher at the South African Nati
 **Bio**: Arnab Mukherjee is a Postdoctoral Researcher at the SAFE Evidence Lab at Oklahoma State University Center for Health Sciences focused on developing trustworthy, reproducible AI for health research. He earned a PhD in Computer Science with a specialization in Machine Learning from the University of Kansas. His work spans federated AI, machine learning systems, evidence generation, and large-scale biomedical data analysis. He leads the development of scalable ML and LLM pipelines, contributing to formal problem formulation, simulation design, evaluation frameworks, and automated evidence extraction. His research emphasizes open, interoperable, and reproducible machine learning infrastructure that enables transparent and reliable scientific discovery. Looking forward, he aims to advance federated AI systems and open-science platforms that improve the rigor, scalability, and real-world impact of biomedical and clinical research.
 
 **Abstract**: Interoperability—the ability of systems to securely exchange, interpret, and use data without human intervention—has become a foundation of modern research data curation infrastructure. Yet interoperability alone does not establish whether data from different sites encode equivalent underlying phenomena. When clinical data exhibits a distributional shift across institutions, models trained at one site may fail silently at another. Confident but wrong is the worst possible failure mode, particularly when models are deployed across organizations. This is the foundational curation challenge this workshop addresses. Research software without borders requires not just that data can cross institutional lines, but that what the data means can be trusted on the other side. Site-level measurement heterogeneity determines whether data generated across diverse sources can be meaningfully compared, interpreted, and trusted as part of a shared research infrastructure. We complement interoperability-focused approaches by developing methods to identify and quantify site-level heterogeneity before data and models are integrated, thereby distinguishing true underlying variation from measurement-induced differences and establishing a more reliable foundation for curation in cross-site federated research.  This workshop translates that framework into practice. Participants will engage in hands-on Python exercises using conformal prediction under simulated site-level heterogeneity, working directly with federated ML tools designed for research data curation pipelines. Attendees will leave with reusable code, a conceptual framework for distinguishing distributional shift from measurement-induced heterogeneity, and practical uncertainty quantification tools they can deploy within their own cross-institutional curation infrastructure.
-
----
-
-#### Presentation. Title: The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software {#paper-4}
-
-**Presenter Name**: Rowland Mosbergen
-
-**Bio**: Rowland is a strategic leader in digital research infrastructure with 25+ years’ experience translating HPC, AI, data and cloud technologies into scalable research and industry services used by global communities. Known for building partnerships across researchers, national infrastructure providers and technology teams to deliver high-impact digital capability, Rowland provides strategic direction, inclusive leadership and scalable programs that accelerate research adoption and demonstrate measurable impact.
-
-
-
-Rowland co-founded RSAA, RSAfrica, and RS Latin America, and established Equersa, the umbrella organisation supporting all three regional conferences. He also serves on the steering committee of the RSE Australia New Zealand Association.
-
-**Abstract**: The RCP Discovery Internship Program at WEHI (Walter and Eliza Hall Institute of Medical Research) presents a novel model for advancing research software through a globally distributed, fully online internship framework. Since its launch in July 2021, the program has engaged over 300 interns from six continents across 14 intakes, while proving that research software complexity can be addressed efficiently with minimal resources while reducing risk and maximising efficiency and effectiveness.
-
-
-
-This presentation describes how the program functions as an innovation lab for interns: recruiting intentionally multi-disciplinary teams, embedding DEI principles, and deploying a "best effort" mentorship philosophy that prioritises critical thinking, adaptability, and tolerance for ambiguity over rigid deliverables. 
-
-
-
-We outline the operational strategies that enable a single supervisor to manage cohorts of up to 40 interns simultaneously, including structured documentation practices, Individual Learning Plans, Technical Diaries, asynchronous feedback mechanisms, with a focus on guided autonomy.
-
-
-
-We also showcase how this program has innovated for researchers, highlighting three key outcomes: Bioconductor package compliance, streamlined flow cytometry workflows via automated file merging, and the REDMANE research data ecosystem that is now available as a demo.
-
-
-
-We also highlight how this program has created a new effective methodology for tackling complex software projects that moves from proof-of-concept through to handover, deliberately surfacing complexity early rather than deferring it.
 
 ---
 
@@ -144,6 +114,36 @@ This session is not about perfect systems. It’s about what has worked, what ha
 
 
 At its core, this talk connects to “Research Software Without Borders” by showing that building global research ecosystems starts with local communities, with people helping people, one step at a time.
+
+---
+
+#### Presentation. Title: The RCP Discovery Internship Program: Building a Global Innovation Lab for Research Software {#paper-4}
+
+**Presenter Name**: Rowland Mosbergen
+
+**Bio**: Rowland is a strategic leader in digital research infrastructure with 25+ years’ experience translating HPC, AI, data and cloud technologies into scalable research and industry services used by global communities. Known for building partnerships across researchers, national infrastructure providers and technology teams to deliver high-impact digital capability, Rowland provides strategic direction, inclusive leadership and scalable programs that accelerate research adoption and demonstrate measurable impact.
+
+
+
+Rowland co-founded RSAA, RSAfrica, and RS Latin America, and established Equersa, the umbrella organisation supporting all three regional conferences. He also serves on the steering committee of the RSE Australia New Zealand Association.
+
+**Abstract**: The RCP Discovery Internship Program at WEHI (Walter and Eliza Hall Institute of Medical Research) presents a novel model for advancing research software through a globally distributed, fully online internship framework. Since its launch in July 2021, the program has engaged over 300 interns from six continents across 14 intakes, while proving that research software complexity can be addressed efficiently with minimal resources while reducing risk and maximising efficiency and effectiveness.
+
+
+
+This presentation describes how the program functions as an innovation lab for interns: recruiting intentionally multi-disciplinary teams, embedding DEI principles, and deploying a "best effort" mentorship philosophy that prioritises critical thinking, adaptability, and tolerance for ambiguity over rigid deliverables. 
+
+
+
+We outline the operational strategies that enable a single supervisor to manage cohorts of up to 40 interns simultaneously, including structured documentation practices, Individual Learning Plans, Technical Diaries, asynchronous feedback mechanisms, with a focus on guided autonomy.
+
+
+
+We also showcase how this program has innovated for researchers, highlighting three key outcomes: Bioconductor package compliance, streamlined flow cytometry workflows via automated file merging, and the REDMANE research data ecosystem that is now available as a demo.
+
+
+
+We also highlight how this program has created a new effective methodology for tackling complex software projects that moves from proof-of-concept through to handover, deliberately surfacing complexity early rather than deferring it.
 
 ---
 
