@@ -2,7 +2,7 @@
 title: "RSAfrica26 Conference Program"
 subtitle: "1st Research Software Africa Conference"
 author: "RSAfrica26 Organising Committee"
-date: "2026-08-08"
+date: "2026-08-21"
 format:
   html:
     theme: cosmo
@@ -750,19 +750,19 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:10–10:10 | 60 min | [AI Sustainability Day panel session 1 - Ethics of Using AI](#paper-101) | Maryblessing Okolie | Panel |
+| 09:10–10:10 | 60 min | [AI Sustainability Day panel session 1 - Ethics of Using AI](#paper-101) | Maryblessing Okolie & A/Prof Rehema Baguma & Joan Kinyua | Panel |
 
 #### AI Sustainability Day Panel 2
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 10:25–11:25 | 60 min | [AI Sustainability Day panel session 2 - Environmental Impact of AI](#paper-102) | Wachiou Ibrahim | Panel |
+| 10:25–11:25 | 60 min | [AI Sustainability Day panel session 2 - Environmental Impact of AI](#paper-102) | Wachiou Ibrahim & Cecilia Naule & Gift Ojeabulu | Panel |
 
 #### AI Sustainability Day Panel 3
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 11:40–12:40 | 60 min | [AI Sustainability Day panel session 3 - Hallucination, Bias and Long Term Sustainability](#paper-103) | Tosan Okome | Panel |
+| 11:40–12:40 | 60 min | [AI Sustainability Day panel session 3 - Hallucination, Bias and Long Term Sustainability](#paper-103) | Tosan Okome & Prof. Ambrose Agweyu & Seun Olufemi | Panel |
 
 #### Presentation Details
 
@@ -774,7 +774,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ##### Panel. Title: AI Sustainability Day panel session 1 - Ethics of Using AI {#paper-101}
 
-**Presenter Name**: Maryblessing Okolie
+**Presenter Name**: Maryblessing Okolie & A/Prof Rehema Baguma & Joan Kinyua
 
 **Abstract**: AI has been called “African Intelligence” because of the outsourcing of data labelling to Africa. But we need to encompass AI sustainability more broadly - including green computing considerations as well as potential copyright violations that may present legal challenges. This extends beyond ethics alone. The AI Sustainability Day aims to challenge the assumption that AI is universally beneficial with no drawbacks. We want to push back against this narrative to enable more informed decision-making. The Ethics of Using AI panel aims to challenge the assumption that AI is universally beneficial with no drawbacks from an ethical or moral point of view.
 
@@ -782,7 +782,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ##### Panel. Title: AI Sustainability Day panel session 2 - Environmental Impact of AI {#paper-102}
 
-**Presenter Name**: Wachiou Ibrahim
+**Presenter Name**: Wachiou Ibrahim & Cecilia Naule & Gift Ojeabulu
 
 **Abstract**: AI data centers have been in the news in multiple countries - but what about across Africa? What has the impact been on people who live near data centers? The Environmental Impact of AI panel aims to challenge the assumption that AI is universally beneficial with minimal drawbacks from an environmental point of view.
 
@@ -790,7 +790,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ##### Panel. Title: AI Sustainability Day panel session 3 - Hallucination, Bias and Long Term Sustainability {#paper-103}
 
-**Presenter Name**: Tosan Okome
+**Presenter Name**: Tosan Okome & Prof. Ambrose Agweyu & Seun Olufemi
 
 **Abstract**: AI has traditionally been trained on data that ignores the African context. This provides challenges when using AI and expecting it to understand the African context. The Hallucination, Bias and Long term sustainability panel aims to challenge the assumption that AI is universally beneficial with minimal tweaks for the African context and make suggestions on how this can be improved.
 
