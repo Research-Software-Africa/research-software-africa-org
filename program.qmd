@@ -30,11 +30,15 @@ All times in this program are displayed in **South African Standard Time (SAST) 
 
 ### Day 1 Workshop 1
 
+**Session Chair:** Abhishek Verma
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 10:00–11:30 | 90 min | [Beyond Interoperability: Hands-On Federated ML for Research Data Curation Infrastructure](#paper-104) | Arnab Mukherjee | Workshop |
 
 ### Session 1: Community Building in Action
+
+**Session Chair:** Monu Sharma, Abhignan Srivatsava Sribhashyam
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
@@ -194,6 +198,8 @@ This presentation will share practical lessons for designing inclusive training 
 
 ### Session 2A: AI & Emerging Tools
 
+**Session Chair:** Shikha Parekh, Ugwu Anthony
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 10:15–10:35 | 20 min | [Doing Science in the Age of AI, when the system isn’t built for you](#paper-6) | Seun Olufemi | Presentation |
@@ -203,6 +209,8 @@ This presentation will share practical lessons for designing inclusive training 
 | 11:35–11:50 | 15 min | [A demonstration of an interpretive approach to machine learning with Orange Data Mining](#paper-23) | Dr Alette Schoon | Demo/Showcase |
 
 ### Session 2B: Machine Learning Pipelines & Data Curation
+
+**Session Chair:** Vidyasagar Palla, Jejelola Olajumoke Folasade
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
@@ -494,6 +502,8 @@ This 10-minute product demo will showcase our product and our approach to reduci
 
 #### Session 3A: Reproducibility, FAIR, and Open Research
 
+**Session Chair:** Abhishek Verma, Cephas Coffie Glavee
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 09:10–09:30 | 20 min | [Building Reproducible Genomic Analysis Pipelines for Enterococcus Surveillance in Resource-Constrained Research Environments](#paper-13) | Bill Clinton Aglomasa | Presentation |
@@ -504,6 +514,8 @@ This 10-minute product demo will showcase our product and our approach to reduci
 
 #### Session 3B: Community, Collaboration, and Access
 
+**Session Chair:** Sumit Gupta, Adeola Lawal
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 10:55–11:15 | 20 min | [I Didn't Know I Could: Barriers to Research for Adults in Underrepresented Communities and the Organisations Already Closing the Gap](#paper-7) | Olushola Ogunkelu | Presentation |
@@ -512,6 +524,8 @@ This 10-minute product demo will showcase our product and our approach to reduci
 | 11:55–12:15 | 20 min | [On Building a Sustainable Research Software and HPC Training Pipeline in West Africa](#paper-35) | JAMES AFFUL | Presentation |
 
 #### Session 3C: Data, Demos, and Local Applications
+
+**Session Chair:** Monu Sharma, Abhignan Srivatsava Sribhashyam
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
@@ -822,6 +836,8 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ### Session 4A: Skills, Career Paths, and Fellowships
 
+**Session Chair:** Adeola Lawal, Ugwu Anthony
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 09:10–10:00 | 50 min | [The SSI Fellowship Without Borders: What Would Work, and What Would Not](#paper-33) | Oscar Seip (SSI/University of Manchester) & Deborah Udoh (EMBL) & Anelda van der Walt (University of Cape Town) | Panel |
@@ -831,11 +847,15 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ### Session 4B: Low-Resource Workflow Adaptations
 
+**Session Chair:** Vidyasagar Palla
+
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
 | 10:45–10:55 | 10 min | [Bridging the Gap: Practical Approaches to Reproducible Bioinformatics Workflows in Low-Resource Settings](#paper-30) | Lilian Oluchi Nwagbara | Presentation |
 
 ### Session 4C: Workshop
+
+**Session Chair:** Sumit Gupta
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
