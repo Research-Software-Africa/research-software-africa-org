@@ -20,8 +20,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Call for presentations"
-        href: call_for_presentations.qmd
+      - text: "Program"
+        href: program.qmd
     right:
       - icon: github
         href: https://github.com/Research-Software-Africa/research-software-africa-org
