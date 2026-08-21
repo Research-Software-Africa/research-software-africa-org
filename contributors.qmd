@@ -1,0 +1,72 @@
+---
+title: "RSAfrica26 Contributors"
+format: html
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+RSAfrica26 could not have happened without the contributions, great and small, of a number of enthusiastic volunteers (some of whom are listed in alphabetical order below).
+
+*If you volunteered to help make RSAfrica26 a reality, and would like your name and bio listed below, please open a PR or issue [here](https://github.com/Research-Software-Africa/research-software-africa-org).*
+
+
+## Ahmed Unshur
+
+
+## Amina Ezznafry
+
+
+## Bernard Solodzi
+
+
+## Christopher Lubega
+
+
+## Geoffrey Logovi
+
+
+## Ibimina Hart
+
+
+## Ibsèn Bazie
+
+
+## Kim Martin
+
+Kim Martin is a Research Software Engineer and former biomedical researcher with a background spanning scientific research, computational methods, and research software engineering. She is passionate about strengthening the skills, practices, and communities that enable effective and sustainable research software.
+
+Kim is a volunteer organiser for RSAfrica26, contributing particularly to the development of its programme and organising processes. She has been actively involved in the Research Software Engineering community in South Africa and internationally through training, community-building, and conference activities.
+
+
+## Michael Umeokoli
+
+
+## Maryblessing Okolie
+
+
+## Peculiar C. Umeh
+
+
+## Richard Dushime
+
+
+## Rowland Mosbergen 
+
+Rowland is a strategic leader in digital research infrastructure with 25+ years’ experience translating HPC, AI, data and cloud technologies into scalable research and industry services used by global communities. Known for building partnerships across researchers, national infrastructure providers and technology teams to deliver high-impact digital capability, Rowland provides strategic direction, inclusive leadership and scalable programs that accelerate research adoption and demonstrate measurable impact.
+
+Rowland co-founded RSAA, RSAfrica, and RS Latin America, and established Equersa, the umbrella organisation supporting all three regional conferences. He also serves on the steering committee of the RSE Australia New Zealand Association.
+
+
+## Seun Olufemi
+
+
+## Tosan Okome
+
+Tosan is a nurse-midwife and early-career researcher with an interest in healthcare, open science, and open source. She leads the Research Focus Group at CHAOSS Africa, where she contributes to research exploring open source and its impact across Africa. She also volunteers as a Research Assistant with the Bipolar Disorder Research Group of Nigeria, contributing to research aimed at better understanding bipolar disorder. Tosan is passionate about advancing open science and open source and their potential to strengthen research, healthcare, and innovation.
+
+
+## Wachiou Baouraima
+
+
+

@@ -25,7 +25,7 @@ All times in this program are displayed in **South African Standard Time (SAST) 
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:30 | 30 min | [Day 1 Welcoming Session](#paper-200) | Conference Organisers | Welcoming |
+| 09:00–09:30 | 30 min | [Day 1 Welcoming Session](#paper-200) | Conference Organisers: Peculiar C. Umeh & Kim Martin | Welcoming |
 | 09:30–10:00 | 30 min | [The only way to play the game is to change the rules; the RSSE Africa journey](#paper-100) | Anelda van der Walt and Peter van Heusden | Keynote |
 
 ### Day 1 Workshop 1
@@ -51,7 +51,9 @@ All times in this program are displayed in **South African Standard Time (SAST) 
 
 #### Welcoming. Title: Day 1 Welcoming Session {#paper-200}
 
-**Presenter Name**: Conference Organisers
+**Presenter Name**: Conference Organisers: Peculiar C. Umeh & Kim Martin
+
+**Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
 ---
 
@@ -193,7 +195,7 @@ This presentation will share practical lessons for designing inclusive training 
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:30 | 30 min | [Day 2 Welcoming Session](#paper-202) | Conference Organisers | Welcoming |
+| 09:00–09:30 | 30 min | [Day 2 Welcoming Session](#paper-202) | Conference Organisers: Rowland Mosbergen & Wachiou Ibrahim | Welcoming |
 | 09:30–10:00 | 30 min | [Day 2 Opening Plenary Address](#paper-201) | Tosan Okome & Chidera Frankie | Keynote |
 
 ### Session 2A: AI & Emerging Tools
@@ -226,7 +228,9 @@ This presentation will share practical lessons for designing inclusive training 
 
 #### Welcoming. Title: Day 2 Welcoming Session {#paper-202}
 
-**Presenter Name**: Conference Organisers
+**Presenter Name**: Conference Organisers: Rowland Mosbergen & Wachiou Ibrahim
+
+**Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
 ---
 
@@ -498,7 +502,7 @@ This 10-minute product demo will showcase our product and our approach to reduci
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:10 | 10 min | [Day 3 Joint Welcoming Session](#paper-203) | Conference Organisers | Welcoming |
+| 09:00–09:10 | 10 min | [Day 3 Joint Welcoming Session](#paper-203) | Conference Organisers: Maryblessing Okolie & Ugwu Nnamdi Emmanuel | Welcoming |
 
 #### Session 3A: Reproducibility, FAIR, and Open Research
 
@@ -536,7 +540,9 @@ This 10-minute product demo will showcase our product and our approach to reduci
 
 ##### Welcoming. Title: Day 3 Joint Welcoming Session {#paper-203}
 
-**Presenter Name**: Conference Organisers
+**Presenter Name**: Conference Organisers: Maryblessing Okolie & Ugwu Nnamdi Emmanuel
+
+**Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
 ---
 
@@ -772,7 +778,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:10 | 10 min | [Day 3 Joint Welcoming Session](#paper-204) | Conference Organisers | Welcoming |
+| 09:00–09:10 | 10 min | [Day 3 Joint Welcoming Session](#paper-204) | Conference Organisers: Maryblessing Okolie & Ugwu Nnamdi Emmanuel | Welcoming |
 
 #### AI Sustainability Day Panel 1
 
@@ -796,7 +802,9 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 ##### Welcoming. Title: Day 3 Joint Welcoming Session {#paper-204}
 
-**Presenter Name**: Conference Organisers
+**Presenter Name**: Conference Organisers: Maryblessing Okolie & Ugwu Nnamdi Emmanuel
+
+**Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
 ---
 
@@ -832,7 +840,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:10 | 10 min | [Day 4 Welcoming Session](#paper-205) | Conference Organisers | Welcoming |
+| 09:00–09:10 | 10 min | [Day 4 Welcoming Session](#paper-205) | Conference Organisers: Kim Martin & Rowland Mosbergen | Welcoming |
 
 ### Session 4A: Skills, Career Paths, and Fellowships
 
@@ -871,7 +879,9 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 #### Welcoming. Title: Day 4 Welcoming Session {#paper-205}
 
-**Presenter Name**: Conference Organisers
+**Presenter Name**: Conference Organisers: Kim Martin & Rowland Mosbergen
+
+**Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
 ---
 
