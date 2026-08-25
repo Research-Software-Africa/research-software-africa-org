@@ -2,7 +2,7 @@
 title: "RSAfrica26 Conference Program"
 subtitle: "1st Research Software Africa Conference"
 author: "RSAfrica26 Organising Committee"
-date: "2026-08-21"
+date: "2026-08-25"
 format:
   html:
     theme: cosmo
@@ -840,7 +840,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 09:00–09:10 | 10 min | [Day 4 Welcoming Session](#paper-205) | Conference Organisers: Kim Martin & Rowland Mosbergen | Welcoming |
+| 09:00–09:10 | 10 min | [Day 4 Welcoming Session](#paper-205) | Conference Organisers: Peculiar C. Umeh & Tosan Okome | Welcoming |
 
 ### Session 4A: Skills, Career Paths, and Fellowships
 
@@ -879,7 +879,7 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 
 #### Welcoming. Title: Day 4 Welcoming Session {#paper-205}
 
-**Presenter Name**: Conference Organisers: Kim Martin & Rowland Mosbergen
+**Presenter Name**: Conference Organisers: Peculiar C. Umeh & Tosan Okome
 
 **Bio**: See the [contributors](contributors.qmd) page for more information about the Conference Organisers and other RSAfrica26 volunteers.
 
