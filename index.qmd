@@ -24,6 +24,9 @@ Do you want to learn what others are doing in research software in your domain a
 
 If so, you might want to join us for RSAfrica26, the new Research Software Africa conference, from the **25th to the 28th of August 2026**. The theme for this year is **"Research Software Without Borders"**, and the hashtag will be #RSAfrica26.
 
+Recordings of the sessions will be uploaded to the [Equersa YouTube Channel](https://www.youtube.com/@equersa), and presenters are encouraged to upload their presentations to the [RSAfrica Zenodo Community](https://zenodo.org/communities/rsafrica/) to create citable artefacts from the conference.
+
+
 ## Working with Research Software Asia Australia (RSAA), Research Software Latinoamérica (RSLA), and Equersa
 
 We are thrilled to announce that we are working with two other conferences, the established Research Software Asia Australia (RSAA26) and the new Research Software Latinoamérica (RSLA26)!
