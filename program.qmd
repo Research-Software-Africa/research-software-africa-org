@@ -2,7 +2,7 @@
 title: "RSAfrica26 Conference Program"
 subtitle: "1st Research Software Africa Conference"
 author: "RSAfrica26 Organising Committee"
-date: "2026-08-25"
+date: "2026-08-28"
 format:
   html:
     theme: cosmo
@@ -869,11 +869,12 @@ Developing mobile phone applications can be challenging and LambdaNative is a fr
 |---|---|---|---|---|
 | 11:30–13:00 | 90 min | [Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions](#paper-19) | Dr Cooper Smout | Workshop |
 
-### Closing Debrief and Celebration
+### Closing Keynote, Debrief and Celebration
 
 | Time | Length | Presentation | Presenter(s) | Type |
 |---|---|---|---|---|
-| 13:00–13:30 | 30 min | [Volunteer Debrief & Conference Creation Taskforce](#paper-206) | Conference Organisers | Workshop |
+| 13:00–13:30 | 30 min | [A Socio-Technical Approach to Building Africa’s Research Software Pipeline](#paper-207) | Dr Nobubele Shozi | Keynote |
+| 13:30–14:00 | 30 min | [Volunteer Debrief & Conference Creation Taskforce](#paper-206) | Conference Organisers | Workshop |
 
 ### Presentation Details
 
@@ -1030,6 +1031,16 @@ Each workshop will begin with a brief introduction to the mechanism and key find
 
 
 We'll close by celebrating the key contributors our data suggests made each conference happen, and reflecting on the process and results. Following both workshops, we will compare datasets, analyse findings, and aim to publish as a proof of concept for cross-community interoperability, with credit given to all contributors through the same mechanism explored within.
+
+---
+
+#### Keynote. Title: A Socio-Technical Approach to Building Africa’s Research Software Pipeline {#paper-207}
+
+**Presenter Name**: Dr Nobubele Shozi
+
+**Bio**: [Dr Shozi](https://www.linkedin.com/in/nobubele-shozi-phd-8a979142/) is part of the national committee for CODATA and local organising committee for IDW2027 (to be held in Cape Town October next year), she works for the Council for Scientific and Industrial Research (CSIR) in data, and with a background in data stewardship and computer science and her interesting work history.
+
+**Abstract**: This keynote presents datathons as socio-technical platforms for building Africa’s research software pipeline that requires more than technical skills but also requires communities, mentorship and institutional support to apply various skills within the research ecosystem. It explores how the various socio-technical elements can be leveraged through a shared African perspective focused on problem solving that is not linear but focused on building an ecosystem pipeline.
 
 ---
 
