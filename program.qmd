@@ -1038,7 +1038,11 @@ We'll close by celebrating the key contributors our data suggests made each conf
 
 **Presenter Name**: Dr Nobubele Shozi
 
-**Bio**: [Dr Shozi](https://www.linkedin.com/in/nobubele-shozi-phd-8a979142/) is part of the national committee for CODATA and local organising committee for IDW2027 (to be held in Cape Town October next year), she works for the Council for Scientific and Industrial Research (CSIR) in data, and with a background in data stewardship and computer science and her interesting work history.
+**Bio**: Nobubele Shozi is currently a Data Stewardship Manager at the Data Intensive Research Initiative of South Africa (DIRISA) where her work focuses on advancing research data management, digital research infrastructure, data governance, policy development, stakeholder engagement and capacity building. She has led national initiatives including the DIRISA Student Datathon Challenge as well as coding, robotics and data science skills-development programmes for both high school and university students. She holds a PhD in Computer Science from the University of South Africa and was previously a Senior Lecturer at the University of Johannesburg. Her professional and research interests include responsible AI and ethics, cybersecurity, digital transformation, data governance and the socio-technical dimensions of emerging technologies.
+
+
+
+[Dr Shozi](https://www.linkedin.com/in/nobubele-shozi-phd-8a979142/) is part of the national committee for CODATA and local organising committee for IDW2027 (to be held in Cape Town October next year).
 
 **Abstract**: This keynote presents datathons as socio-technical platforms for building Africa’s research software pipeline that requires more than technical skills but also requires communities, mentorship and institutional support to apply various skills within the research ecosystem. It explores how the various socio-technical elements can be leveraged through a shared African perspective focused on problem solving that is not linear but focused on building an ecosystem pipeline.
 
